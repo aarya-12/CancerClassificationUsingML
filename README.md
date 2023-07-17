@@ -1,1 +1,4 @@
-# CancerClassificationUsingML
+# Cancer Classification Using Gene Expression data
+Cancer poses a significant global health challenge, necessitating personalized therapeutic approaches. Genomic prediction, utilizing large-scale genomic data, has emerged as a powerful tool in cancer research. This project aims to develop robust machine-learning models for genomic prediction in cancer using the UCI cancer dataset. By integrating genomic and clinical data, the models will identify intricate patterns and correlations, enabling accurate classification of cancer subtypes and providing personalized treatment recommendations. 
+
+Machine learning algorithms such as K-Nearest Neighbors, Support Vector Machines, Random Forest, and Logistic Regression will be employed to analyze the dataset. The project's motivation lies in exploring various algorithms and models, training them on gene expression data, and classifying the presence of cancer types. 
